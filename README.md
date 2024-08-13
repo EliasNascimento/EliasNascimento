@@ -1,10 +1,10 @@
 
 ### Hi, I'm Elias Nascimento 🧑
 
-- 🔭 Currently working as a c# .net Fullstack Developer with Entity Framework, Dapper, in construction of softwares of internal control, using rest APIs and CLOUD environment Azure in agile projects.
+- 🔭 Currently working as a c# .net Fullstack Developer with Entity Framework, React, in construction of softwares of internal control, using rest APIs and CLOUD environment Azure in agile projects.
 
-- 🤔 - Experience as a Full Stack developer, Angular 8+ Material design, React frontend and .net core backend with Dapper and Entity Framework in agile projects;
-     - About 4 years of experience as a Full Stack Developer.
+- 🤔 - Experience as a Full Stack developer, Angular 8+ Material Design, React frontend and .net core, .net 7 e 8 backend with Entity Framework in agile projects;
+     - About 7 years of experience as a Developer.
      - Experience with configuration, process improvements, elaboration of functional specifications and process flow documents;
      - Good knowledge in Mysql and PL/SQL language and no relational database MongoDB;
      
